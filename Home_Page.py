@@ -7,8 +7,8 @@ st.title("Web Development Lab03")
 # TODO: Fill out your team number, section, and team members
 
 st.header("CS 1301")
-st.subheader("Team 36, Web Development - Section D")
-st.subheader("Michael Charles, Abhiram Kapaganty")
+st.subheader("Team XX, Web Development - Section X")
+st.subheader("Team Member 1, Team Member 2")
 
 
 # Introduction
@@ -21,10 +21,10 @@ st.subheader("Michael Charles, Abhiram Kapaganty")
 st.write("""
 Welcome to our Streamlit Web Development Lab03 app! You can navigate between the pages using the sidebar to the left. The following pages are:
 
-1. **Portfolio - Michael Charles**: A portfolio showcasing projects, skills, and experience of Michael Charles.
-2. **Portfolio - Abhiram Kapaganty**: A portfolio showcasing projects, skills, and experience of Abhiram Kapaganty.
-3. **API Data Analysis**: A page analyzing data from a web API, with user inputs and dynamic visualizations.
-4. **LLM Integration**: A page using Google Gemini LLM for processing and chatbot interactions based on API data.
+1.
+2.
+3.
+4.
 
 """)
 
